@@ -1,25 +1,22 @@
-# Web UI
 streamlit>=1.32.0
 
-# LangChain core & community
+# LangChain
 langchain>=0.1.14
 langchain-community>=0.0.26
 
-# Transformers for LLM
-transformers>=4.40.0
+# Vector store and embeddings
+faiss-cpu>=1.7.4
+sentence-transformers>=2.2.2
 huggingface-hub>=0.22.2
 
-# Tokenizer for Hugging Face
-sentence-transformers>=2.2.2
+# Transformers & tokenizer
+transformers==4.40.1
 
-# Vector store
-faiss-cpu>=1.7.4
-
-# PDF, TXT, CSV loaders
+# File loaders
 pypdf>=3.17.4
 pandas>=2.2.1
 
-# Misc
+# Utilities
 tqdm>=4.66.4
 numpy>=1.26.4
 scikit-learn>=1.4.2
