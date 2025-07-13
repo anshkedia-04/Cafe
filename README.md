@@ -7,7 +7,7 @@
 
 ## 🚀 Live Demo
 
-🔗 [Click here to try BrewBot Café Assistant]([https://your-deployed-streamlit-link](https://8pnny8sps6cxnj5tfbhugm.streamlit.app/))
+🔗 [Click here to try BrewBot Café Assistant](https://8pnny8sps6cxnj5tfbhugm.streamlit.app/)
 
 ---
 
